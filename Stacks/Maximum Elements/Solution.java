@@ -1,4 +1,6 @@
 //implement stack and query , 1-push ,2-pop, 3-max in stack
+
+//can be done like, push only maximum and ignore other push and pop.
 import java.io.*;
 import java.util.*;
 
@@ -8,7 +10,7 @@ public class Solution {
        
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt(); // no. of queries
-        Stack<Integer> maxStack = new Stack<Integer>(); // to store max element 
+        Stack<Integer> maxStack = new Stack<Integer>(); // to store max element, maxx at top always
         Stack<Integer> stack = new Stack<Integer>();
         
         int max = 0;
