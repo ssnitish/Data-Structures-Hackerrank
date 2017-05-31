@@ -1,5 +1,7 @@
 # Data-Structures-Hackerrank
 
+Stacks
+
 | SubDomain     |    Problem    | Points |  Solution |
 | ------------- | ------------- |------------- |------------ |
 | Stacks  |[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets)  | 25 |[Solution.java](https://github.com/ssnitish/Data-Structures-Hackerrank/blob/master/Stacks/Balanced%20Brackets/Solution.java)|
