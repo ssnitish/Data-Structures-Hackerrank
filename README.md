@@ -20,6 +20,8 @@ Linked Lists
 | Linked Lists  |[Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list)  | 5 |[Solution.java](https://github.com/ssnitish/Data-Structures-Hackerrank/tree/master/Linked%20Lists/Insert%20a%20node%20at%20a%20specific%20position%20in%20a%20linked%20list/Solution.java)|
 | Linked Lists  |[Delete a Node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list)  | 5 |[Solution.java](https://github.com/ssnitish/Data-Structures-Hackerrank/tree/master/Linked%20Lists/Delete%20a%20Node/Solution.java)|
 | Linked Lists  |[Print in Reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse)  | 5 |[Solution.java](https://github.com/ssnitish/Data-Structures-Hackerrank/tree/master/Linked%20Lists/Print%20in%20Reverse/Solution.java)|
+| Linked Lists  |[Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list)  | 5 |[Solution.java](https://github.com/ssnitish/Data-Structures-Hackerrank/tree/master/Linked%20Lists/Reverse%20a%20linked%20list/Solution.java)|
+
 
 
 
