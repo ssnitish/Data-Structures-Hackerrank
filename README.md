@@ -21,6 +21,7 @@ Linked Lists
 | Linked Lists  |[Delete a Node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list)  | 5 |[Solution.java](https://github.com/ssnitish/Data-Structures-Hackerrank/tree/master/Linked%20Lists/Delete%20a%20Node/Solution.java)|
 | Linked Lists  |[Print in Reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse)  | 5 |[Solution.java](https://github.com/ssnitish/Data-Structures-Hackerrank/tree/master/Linked%20Lists/Print%20in%20Reverse/Solution.java)|
 | Linked Lists  |[Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list)  | 5 |[Solution.java](https://github.com/ssnitish/Data-Structures-Hackerrank/tree/master/Linked%20Lists/Reverse%20a%20linked%20list/Solution.java)|
+| Linked Lists  |[Get Node Value](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail)  | 5 |[Solution.java](https://github.com/ssnitish/Data-Structures-Hackerrank/tree/master/Linked%20Lists/Get%20Node%20Value/Solution.java)|
 
 
 
