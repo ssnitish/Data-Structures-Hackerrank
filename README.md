@@ -24,6 +24,7 @@ Linked Lists
 | Linked Lists  |[Get Node Value](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail)  | 5 |[Solution.java](https://github.com/ssnitish/Data-Structures-Hackerrank/tree/master/Linked%20Lists/Get%20Node%20Value/Solution.java)|
 | Linked Lists  |[Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists)  | 5 |[Solution.java](https://github.com/ssnitish/Data-Structures-Hackerrank/tree/master/Linked%20Lists/Compare%20two%20linked%20lists/Solution.java)|
 | Linked Lists  |[Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists)  | 5 |[Solution.java](https://github.com/ssnitish/Data-Structures-Hackerrank/tree/master/Linked%20Lists/Merge%20two%20sorted%20linked%20lists)|
+| Linked Lists  |[Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle)  | 5 |[Solution.java](https://github.com/ssnitish/Data-Structures-Hackerrank/tree/master/Linked%20Lists/Cycle%20Detection)|
 
 
 
