@@ -23,6 +23,8 @@ Linked Lists
 | Linked Lists  |[Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list)  | 5 |[Solution.java](https://github.com/ssnitish/Data-Structures-Hackerrank/tree/master/Linked%20Lists/Reverse%20a%20linked%20list/Solution.java)|
 | Linked Lists  |[Get Node Value](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail)  | 5 |[Solution.java](https://github.com/ssnitish/Data-Structures-Hackerrank/tree/master/Linked%20Lists/Get%20Node%20Value/Solution.java)|
 | Linked Lists  |[Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists)  | 5 |[Solution.java](https://github.com/ssnitish/Data-Structures-Hackerrank/tree/master/Linked%20Lists/Compare%20two%20linked%20lists/Solution.java)|
+| Linked Lists  |[Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists)  | 5 |[Solution.java](https://github.com/ssnitish/Data-Structures-Hackerrank/tree/master/Linked%20Lists/Merge%20two%20sorted%20linked%20lists)|
+
 
 
 
