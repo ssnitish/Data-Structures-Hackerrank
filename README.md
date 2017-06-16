@@ -35,6 +35,8 @@ Trees
 | SubDomain     |    Problem    | Points |  Solution |
 | ------------- | ------------- |------------- |------------ |
 | Trees  |[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal)  | 10 |[Solution.java](https://github.com/ssnitish/Data-Structures-Hackerrank/tree/master/Trees/Tree-%20Preorder%20Traversal/Solution.java)|
+| Trees  |[Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal)  | 10 |[Solution.java](https://github.com/ssnitish/Data-Structures-Hackerrank/tree/master/Trees/Postorder%20Traversal/Solution.java)|
+| Trees  |[Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal)  | 10 |[Solution.java](https://github.com/ssnitish/Data-Structures-Hackerrank/tree/master/Trees/Inorder%20Traversal/Solution.java)|
 
 
 
