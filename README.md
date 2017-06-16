@@ -29,6 +29,13 @@ Linked Lists
 
 
 
+Trees
+
+
+| SubDomain     |    Problem    | Points |  Solution |
+| ------------- | ------------- |------------- |------------ |
+| Trees  |[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal)  | 10 |[Solution.java](https://github.com/ssnitish/Data-Structures-Hackerrank/tree/master/Trees/Tree-%20Preorder%20Traversal/Solution.java)|
+
 
 
 
